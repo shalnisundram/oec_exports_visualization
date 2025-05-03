@@ -1,4 +1,5 @@
-# Geopolitics enthusiast here - check out this interactive slideshow of insights in global exports! 
+# For geopolitics enthusiasts: visualiation on global export insights 
+# Data pulled from OEC
 ## Built using JavaScript, HTML5, CSS. Data acquired from OEC.
 
 Play around with it here: [https://shalnisundram.github.io/js_narrative_vis/](https://shalnisundram.github.io/oec_exports_visualization/)
